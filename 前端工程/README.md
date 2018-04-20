@@ -3,8 +3,4 @@
 
 [Webpack 打包优化之体积篇](https://toutiao.io/k/yk6r6s)
 
-[打造Vue组件库一](https://zhuanlan.zhihu.com/p/34654371)
-
-[打造Vue组件库二](https://zhuanlan.zhihu.com/p/34654857)
-
 [大佬前端工程系列](http://efe.baidu.com/blog/front-end-continuous-integration-tools/)
