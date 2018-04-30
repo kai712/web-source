@@ -19,3 +19,7 @@
 - [x] [数据可视化文章集锦](https://github.com/SunShineKG/web-source/tree/master/数据可视化)
 
 - [x] [数据结构与算法文章集锦](https://github.com/SunShineKG/web-source/tree/master/数据结构与算法)
+
+- [x] [go文章集锦](https://github.com/SunShineKG/web-source/tree/master/go)
+
+- [x] [视频集锦](https://github.com/SunShineKG/web-source/tree/master/视频)
