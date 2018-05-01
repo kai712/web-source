@@ -23,3 +23,5 @@
 - [x] [go文章集锦](https://github.com/SunShineKG/web-source/tree/master/go)
 
 - [x] [视频集锦](https://github.com/SunShineKG/web-source/tree/master/视频)
+
+- [x] [优质专栏](https://github.com/SunShineKG/web-source/tree/master/优质专栏)

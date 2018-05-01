@@ -19,3 +19,7 @@
 [腾讯云-SSL证书链说明](https://cloud.tencent.com/document/product/214/5360)
 
 [腾讯云-SSL单向认证和双向认证说明](https://cloud.tencent.com/document/product/214/5363)
+
+[淘宝网改造HTTPS](http://velocity.oreilly.com.cn/2015/ppts/lizhenyu.pdf)
+
+[HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
