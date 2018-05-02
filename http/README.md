@@ -22,4 +22,6 @@
 
 [淘宝网改造HTTPS](http://velocity.oreilly.com.cn/2015/ppts/lizhenyu.pdf)
 
+[HTTP2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
+
 [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
