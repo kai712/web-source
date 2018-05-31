@@ -27,3 +27,5 @@
 [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 
 [WebSockets 和拥有 SSE 技术 的 HTTP/2 ](https://juejin.im/post/5a522647518825732d7f6cbb)
+
+[长连接/websocket/SSE等主流服务器推送技术比较](https://zhuanlan.zhihu.com/p/31297574)
