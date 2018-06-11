@@ -5,3 +5,5 @@
 [Go语言圣经（中文版）](https://yar999.gitbooks.io/gopl-zh/content/)
 
 [GoCN 每日新闻](https://gocn.vip/explore/category-14)
+
+[go资料整理](https://github.com/Unknwon/go-study-index)
