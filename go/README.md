@@ -7,3 +7,5 @@
 [GoCN 每日新闻](https://gocn.vip/explore/category-14)
 
 [go资料整理](https://github.com/Unknwon/go-study-index)
+
+[Golang 中的并发限制与超时控制](https://www.jianshu.com/p/42e89de33065)
