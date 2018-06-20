@@ -15,3 +15,5 @@
 [Golang map 的底层实现](https://www.jianshu.com/p/aa0d4808cbb8)
 
 [golang 垃圾回收机制](https://lengzzz.com/note/gc-in-golang)
+
+[Go语言 关键字：defer](https://lengzzz.com/note/gc-in-golang)
