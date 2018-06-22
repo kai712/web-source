@@ -17,3 +17,5 @@
 [golang 垃圾回收机制](https://lengzzz.com/note/gc-in-golang)
 
 [Go语言 关键字：defer](https://lengzzz.com/note/gc-in-golang)
+
+[日志的艺术](http://www.10tiao.com/html/434/201801/2651561339/1.html)
