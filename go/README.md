@@ -19,3 +19,5 @@
 [Go语言 关键字：defer](https://lengzzz.com/note/gc-in-golang)
 
 [日志的艺术](http://www.10tiao.com/html/434/201801/2651561339/1.html)
+
+[Go语言的传参和传引用](https://my.oschina.net/chai2010/blog/161384)
