@@ -5,3 +5,5 @@
 [为 Luy 实现 React Fiber 架构 - 方正](https://zhuanlan.zhihu.com/p/37098539)
 
 [React Fiber架构 - 司徒正美](https://zhuanlan.zhihu.com/p/37095662)
+
+[React.js 小书 胡子大哈](http://huziketang.mangojuice.top/books/react/)
