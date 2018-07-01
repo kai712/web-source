@@ -25,3 +25,5 @@
 [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
 
 [印记中文](https://www.docschina.org/#fe)
+
+[精品专栏](http://www.uyi2.com/docs?id=344)
