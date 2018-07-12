@@ -7,3 +7,5 @@
 [打造Vue组件库二](https://zhuanlan.zhihu.com/p/34654857)
 
 [深入 Vue2.x 的虚拟 DOM diff 原理](https://cloud.tencent.com/developer/article/1006029)
+
+[实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
