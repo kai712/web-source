@@ -9,3 +9,5 @@
 [深入 Vue2.x 的虚拟 DOM diff 原理](https://cloud.tencent.com/developer/article/1006029)
 
 [实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+
+[Vue 官方代码风格](https://vue.docschina.org/v2/style-guide/)
