@@ -16,3 +16,5 @@
 [PWA 中文文档）](https://lavas.baidu.com/pwa)
 
 [页面可视化搭建工具前生今世）](https://zhuanlan.zhihu.com/p/37171897)
+
+[网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b6fa8c86fb9a0099910ac91)
