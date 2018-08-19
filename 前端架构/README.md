@@ -9,3 +9,5 @@
 [左耳朵耗子：从亚马逊的实践，谈分布式系统的难点](https://mp.weixin.qq.com/s/canaSVk5jel3hOtAq7NcPg)
 
 [如何优雅地上报前端监控日志](http://www.aliued.com/?p=4172)
+
+[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md)
