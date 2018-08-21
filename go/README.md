@@ -21,3 +21,5 @@
 [日志的艺术](http://www.10tiao.com/html/434/201801/2651561339/1.html)
 
 [Go语言的传参和传引用](https://my.oschina.net/chai2010/blog/161384)
+
+[Stream从Python切换到Go的原因](http://www.infoq.com/cn/articles/stream-switch-go)
