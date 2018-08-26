@@ -23,3 +23,5 @@
 [Go语言的传参和传引用](https://my.oschina.net/chai2010/blog/161384)
 
 [Stream从Python切换到Go的原因](http://www.infoq.com/cn/articles/stream-switch-go)
+
+[Why should you learn Go?](https://medium.com/exploring-code/why-should-you-learn-go-f607681fad65)
