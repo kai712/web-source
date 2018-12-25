@@ -25,3 +25,5 @@
 [Stream从Python切换到Go的原因](http://www.infoq.com/cn/articles/stream-switch-go)
 
 [Why should you learn Go?](https://medium.com/exploring-code/why-should-you-learn-go-f607681fad65)
+
+[Golang的配置信息处理框架Viper](http://blog.51cto.com/13599072/2072753)
